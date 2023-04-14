@@ -1,10 +1,13 @@
 #adding config.py file
 api_keys.py
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+**/.DS_Store
+*.DS_Store
 # C extensions
 *.so
 
