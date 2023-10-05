@@ -6,6 +6,7 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 Part 1: WeatherPy
+
 In this deliverable, I created a Python script to visualize the weather of over 500 cities of varying distances from the equator. I use problem-solving skills to create a representative model of weather across cities.
 
 For this part, I use the WeatherPy.ipynb Jupyter notebook.
@@ -43,6 +44,7 @@ I create the following plots:
 
 
 Part 2: VacationPy
+
 In this deliverable, I use my weather data skills to plan future vacations. Also, I use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
 I complete the following tasks:
